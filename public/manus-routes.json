@@ -1,0 +1,1 @@
+{"routes":[{"path":"/","title":"Home"},{"path":"/about","title":"About Us"},{"path":"/programmes","title":"Examinations & Programmes"},{"path":"/programmes/:slug","title":"Programme Category"},{"path":"/resources","title":"Study Resources"},{"path":"/services","title":"Services"},{"path":"/contact","title":"Contact Us"}]}
